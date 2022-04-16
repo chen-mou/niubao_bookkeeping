@@ -1,0 +1,12 @@
+<!--pages/custom/index.wxml-->
+<view class="content">
+    <view class="top">
+        <view class="avator">
+            <img src="pages/resouce/default.png" style="width: 100%;height: 100%;"/>
+        </view>
+        <view class="name">
+            <text>请登录</text>
+        </view>
+    </view>
+    
+</view>

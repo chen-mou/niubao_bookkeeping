@@ -1,0 +1,30 @@
+/* pages/custom/index.wxss */
+.content{
+    height: calc(100vh);
+    width: calc(100vw);
+}
+
+.top{
+    width: calc(100vw);
+    height: 10rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    background-color: red;
+}
+
+.avator{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 7rem;
+    background-color: white;
+}
+.name{
+    width: 7rem;
+    height: 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    text-align: center;
+    background-color: transparent;
+}
